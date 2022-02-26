@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T02:12:25.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="5p9mqmrVZTmmPKq-2Mpu" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T02:58:17.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="LymZ-UhwA3kcpZr2DsoT" version="16.6.4" type="github">
   <diagram id="EH2DLJnJJi2QQBK3wejo" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="l49X7LjRo6Gnyk_LpW9R-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l49X7LjRo6Gnyk_LpW9R-6" target="l49X7LjRo6Gnyk_LpW9R-10">
+        <mxCell id="l49X7LjRo6Gnyk_LpW9R-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="l49X7LjRo6Gnyk_LpW9R-6" target="l49X7LjRo6Gnyk_LpW9R-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l49X7LjRo6Gnyk_LpW9R-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.578;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l49X7LjRo6Gnyk_LpW9R-6" target="l49X7LjRo6Gnyk_LpW9R-11">
+        <mxCell id="l49X7LjRo6Gnyk_LpW9R-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.578;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="l49X7LjRo6Gnyk_LpW9R-6" target="l49X7LjRo6Gnyk_LpW9R-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l49X7LjRo6Gnyk_LpW9R-6" value="配置命令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l49X7LjRo6Gnyk_LpW9R-6" value="配置命令" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="99" y="92" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l49X7LjRo6Gnyk_LpW9R-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l49X7LjRo6Gnyk_LpW9R-7" target="l49X7LjRo6Gnyk_LpW9R-20">
+        <mxCell id="l49X7LjRo6Gnyk_LpW9R-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="l49X7LjRo6Gnyk_LpW9R-7" target="l49X7LjRo6Gnyk_LpW9R-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="242" y="356" />
@@ -21,10 +21,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l49X7LjRo6Gnyk_LpW9R-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l49X7LjRo6Gnyk_LpW9R-7" target="l49X7LjRo6Gnyk_LpW9R-21">
+        <mxCell id="l49X7LjRo6Gnyk_LpW9R-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="l49X7LjRo6Gnyk_LpW9R-7" target="l49X7LjRo6Gnyk_LpW9R-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l49X7LjRo6Gnyk_LpW9R-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l49X7LjRo6Gnyk_LpW9R-7" target="l49X7LjRo6Gnyk_LpW9R-22">
+        <mxCell id="l49X7LjRo6Gnyk_LpW9R-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="l49X7LjRo6Gnyk_LpW9R-7" target="l49X7LjRo6Gnyk_LpW9R-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="242" y="356" />
@@ -32,31 +32,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l49X7LjRo6Gnyk_LpW9R-7" value="维护命令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l49X7LjRo6Gnyk_LpW9R-7" value="维护命令" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="99" y="326" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l49X7LjRo6Gnyk_LpW9R-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l49X7LjRo6Gnyk_LpW9R-8" target="l49X7LjRo6Gnyk_LpW9R-26">
+        <mxCell id="l49X7LjRo6Gnyk_LpW9R-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="l49X7LjRo6Gnyk_LpW9R-8" target="l49X7LjRo6Gnyk_LpW9R-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l49X7LjRo6Gnyk_LpW9R-8" value="查询命令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l49X7LjRo6Gnyk_LpW9R-8" value="查询命令" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="99" y="518" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l49X7LjRo6Gnyk_LpW9R-10" value="backup mode $mode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l49X7LjRo6Gnyk_LpW9R-10" value="backup mode $mode" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="269" y="42" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l49X7LjRo6Gnyk_LpW9R-11" value="backup interval $minute $second" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l49X7LjRo6Gnyk_LpW9R-11" value="backup interval $minute $second" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="269" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l49X7LjRo6Gnyk_LpW9R-20" value="backup immediate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l49X7LjRo6Gnyk_LpW9R-20" value="backup immediate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="269" y="233" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l49X7LjRo6Gnyk_LpW9R-21" value="set service value $val" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l49X7LjRo6Gnyk_LpW9R-21" value="set service value $val" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="266" y="326" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l49X7LjRo6Gnyk_LpW9R-22" value="set real-time value $val" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l49X7LjRo6Gnyk_LpW9R-22" value="set real-time value $val" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="266" y="419" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l49X7LjRo6Gnyk_LpW9R-26" value="display backup status [slave]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l49X7LjRo6Gnyk_LpW9R-26" value="display backup status [slave]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="269" y="518" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
